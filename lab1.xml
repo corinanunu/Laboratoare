@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><tag0>
+    <tag1 tag1name="t1Name1" tagId="1">
+        <tag2 tag2Id="001">
+            <t1>string 1</t1>
+            <t2>string 1</t2>
+            <t3>date or int 1</t3>
+            <t4>string 1</t4>
+            <listElements>
+                <listElement>list1 string a</listElement>
+                <listElement>list1 string b </listElement>
+                <listElement>list1 string c</listElement>
+                <listElement>list1 string d</listElement>
+            </listElements>
+            <t5>int 1</t5>
+        </tag2>
+        <tag2 tag2Id="002">
+            <t1>string 2</t1>
+            <t2>string 2</t2>
+            <t3>date or int 2</t3>
+            <t4>string 2</t4>
+            <listElements>
+                <listElement>list2 string a</listElement>
+                <listElement>list2 string b</listElement>
+                <listElement>list2 string c</listElement>
+                <listElement>list2 string d</listElement>
+            </listElements>
+            <t5>int 2</t5>
+        </tag2>
+    </tag1>
+
+    <tag1 tag1name="t1Name2" tg1Id="2">
+        <tag2 tag2Id="003">
+            <t1>string 3</t1>
+            <t2>string 3</t2>
+            <t3>date or int 3</t3>
+            <t4>string 3</t4>
+            <listElements>
+                <listElement>list3 string a</listElement>
+                <listElement>list3 string b</listElement>
+                <listElement>list3 string c</listElement>
+                <listElement>list3 string d</listElement>
+            </listElements>
+            <t5>int 3</t5>
+        </tag2>
+        <tag2 tag2Id="004">
+            <t1>string 4</t1>
+            <t2>string 4</t2>
+            <t3>date or int 4</t3>
+            <t4>string 4</t4>
+            <listElements>
+                <listElement>list4 string a</listElement>
+                <listElement>list4 string b</listElement>
+                <listElement>list4 string c</listElement>
+                <listElement>list4 string d</listElement>
+            </listElements>
+            <t5>int 4</t5>
+        </tag2>
+    </tag1>
+<tag1 tag1name="nameDepartment" tg1Id="3"><tag2><t1>string 5</t1><t2>string 5</t2><t3>date or int 5</t3><t4>string 5</t4><listElements><listElement>list5 string a</listElement><listElement>list5 string b</listElement><listElement>list5 string c</listElement><listElement>list5 string d</listElement></listElements><t5>string 5</t5></tag2></tag1></tag0>
